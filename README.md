@@ -11,7 +11,7 @@ Melodify is a web-based music streaming platform created using HTML, CSS, and Ja
 
 ## Tech Stack
 
-- **Front-End:** HTML5, CSS3, JS
+- **Front-End:** HTML, CSS, JS
 
 ## Feedback
 
